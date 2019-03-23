@@ -18,6 +18,8 @@
 	<div class="row">
 		<input type="submit" name="btnThoat" value="Exit">
 	</div>
-	
+	<div class="row">
+		<input type="submit" name="btnDoiPass" value="Change Password">
+	</div>
 </body>
 </html>
