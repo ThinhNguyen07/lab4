@@ -15,8 +15,9 @@
 	<div class="row">
 		<input type="submit" name="btnLog" value="Sign in">
 	</div>
-
+	<div class="row">
+		<input type="submit" name="btnThoat" value="Exit">
+	</div>
 	
-	<button> </button>
 </body>
 </html>
