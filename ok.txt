@@ -1,1 +1,22 @@
-hello Danh
+<!DOCTYPE html>
+<html>
+
+<body>
+
+	<h1>SIGN IN</h1>
+	<div class="row">
+		<label> ID </label>
+		<input type="hidden" name="txtName" value="danh11111">
+	</div>
+	<div class="row">
+		<label> Password </label>
+		<input type="text" name="txtPass">
+	</div>
+	<div class="row">
+		<input type="submit" name="btnLog" value="Sign in">
+	</div>
+
+	
+
+</body>
+</html>
