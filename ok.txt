@@ -19,7 +19,10 @@
 		<input type="submit" name="btnThoat" value="Exit">
 	</div>
 	<div class="row">
-		<input type="submit" name="Luu" value="Edit">
+
+=======
+		<input type="submit" name="Ko Luu" value="Edit">
+>>>>>>> bd72ed3a028a53ccac9c32d8237f6c024a225cf2
 	</div>
 
 	
