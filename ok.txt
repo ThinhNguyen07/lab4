@@ -19,7 +19,7 @@
 		<input type="submit" name="btnThoat" value="Exit">
 	</div>
 	<div class="row">
-		<input type="submit" name="btnThoat" value="Edit">
+		<input type="submit" name="Fix" value="Edit">
 	</div>
 
 	
